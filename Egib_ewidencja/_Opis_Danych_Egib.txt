@@ -1,0 +1,3 @@
+GESBNE - Budynki nieuwidocznione w ewidencji
+GESBZO - Budynki ewidencyjne
+GESDZI - Dzia³ki ewidencyjne
